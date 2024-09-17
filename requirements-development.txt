@@ -1,0 +1,5 @@
+sphinx
+flake8
+pyqt5
+furo
+packaging
