@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/plugins/QuickWKT" >
+    <file>icons/globe4040.png</file>
+    <file>icons/hide.png</file>
+    <file>icons/icon.png</file>
+    <file>icons/show.png</file>
+  </qresource>
+</RCC>

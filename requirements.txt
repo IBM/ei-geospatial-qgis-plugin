@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+ibmpairs
+bottleneck==1.3.8
+numpy==1.26.4
